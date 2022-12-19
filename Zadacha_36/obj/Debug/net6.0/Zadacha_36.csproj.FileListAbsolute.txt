@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Home_5\Homework_5\Zadacha_36\bin\Debug\net6.0\Zadacha_36.exe
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Home_5\Homework_5\Zadacha_36\bin\Debug\net6.0\Zadacha_36.deps.json
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Home_5\Homework_5\Zadacha_36\bin\Debug\net6.0\Zadacha_36.runtimeconfig.json
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Home_5\Homework_5\Zadacha_36\bin\Debug\net6.0\Zadacha_36.dll
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Home_5\Homework_5\Zadacha_36\bin\Debug\net6.0\Zadacha_36.pdb
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Home_5\Homework_5\Zadacha_36\obj\Debug\net6.0\Zadacha_36.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Home_5\Homework_5\Zadacha_36\obj\Debug\net6.0\Zadacha_36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Home_5\Homework_5\Zadacha_36\obj\Debug\net6.0\Zadacha_36.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Home_5\Homework_5\Zadacha_36\obj\Debug\net6.0\Zadacha_36.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Home_5\Homework_5\Zadacha_36\obj\Debug\net6.0\Zadacha_36.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Home_5\Homework_5\Zadacha_36\obj\Debug\net6.0\Zadacha_36.dll
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Home_5\Homework_5\Zadacha_36\obj\Debug\net6.0\refint\Zadacha_36.dll
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Home_5\Homework_5\Zadacha_36\obj\Debug\net6.0\Zadacha_36.pdb
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Home_5\Homework_5\Zadacha_36\obj\Debug\net6.0\Zadacha_36.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Home_5\Homework_5\Zadacha_36\obj\Debug\net6.0\ref\Zadacha_36.dll
