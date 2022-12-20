@@ -29,20 +29,3 @@ count++;
 System.Console.WriteLine('[' + string.Join(", ", array) + ']');
 System.Console.WriteLine("Количество четных чисел в массиве: " + count);
 
-// void FillArrayRandomNumbers(int[] numbers)
-// {
-//     for(int i = 0; i < numbers.Length; i++)
-//     {
-//         numbers[i] = new Random().Next(100,1000);
-//     }
-// }
-// void PrintArray(int[] numbers)
-// {
-//     Console.Write("[ ");
-//     for(int i = 0; i < numbers.Length; i++)
-//     {
-//         Console.Write(numbers[i] + " ");
-//     }
-//     Console.Write("]");
-//     Console.WriteLine();
-// }
