@@ -28,4 +28,3 @@ count++;
 
 System.Console.WriteLine('[' + string.Join(", ", array) + ']');
 System.Console.WriteLine("Количество четных чисел в массиве: " + count);
-
